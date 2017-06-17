@@ -1,7 +1,8 @@
 body {
 	text-align: center;
   font-size: 25px;
-  color: gray;
+  color: white;
+	background-image:url(../img/zoo.jpg);
 }
 
 .btn-lg{
